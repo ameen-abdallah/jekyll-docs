@@ -3,7 +3,6 @@ layout: default
 title: Linux
 nav_order: 3
 has_children: true
-permalink: /docs/linux
 last_modified_date: 2023-04-16 19:18:14
 ---
 
